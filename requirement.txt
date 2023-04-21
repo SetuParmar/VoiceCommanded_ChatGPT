@@ -1,0 +1,5 @@
+SpeechRecognition
+pyttsx3
+openai
+urllib3
+docx
